@@ -18,6 +18,8 @@ SCHOOL = $1250
 
 HALLOWEEN = $2500
 
+#Table
+
 | Code      | Value  |
 | :----:    | :----: |
 | HAPPY     | $10000 |
