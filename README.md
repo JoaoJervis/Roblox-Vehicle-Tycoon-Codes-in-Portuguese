@@ -18,7 +18,7 @@ SCHOOL = $1250
 
 HALLOWEEN = $2500
 
-#Table
+# Table
 
 | Code      | Value  |
 | :----:    | :----: |
